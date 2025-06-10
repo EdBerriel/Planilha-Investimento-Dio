@@ -8,8 +8,7 @@ Este projeto foi desenvolvido como parte de um desafio voltado para a aplicaçã
 
 A planilha apresenta uma tabela estruturada com as seguintes informações:
 
-**Cenários:** Pergunta direcionada sobre o montante esperado após um determinado número de meses.
-**Através da pergunta:** "Quanto em X meses?", mas com prospecção de cenários anuais com 1, 2, 5, 15 e 20 anos;
+**Cenários:** Pergunta direcionada sobre o montante esperado após um determinado número de meses.                                                                                                                                                                                                                                                                                **Através da pergunta:** "Quanto em X meses?", mas com prospecção de cenários anuais com 1, 2, 5, 15 e 20 anos;
 
 **Patrimônio Acumulado:** Estimativa do valor total ao término do período indicado.
 **Através do cálculo:** "Valor projetado ao final do período", mas com análise de tempos anuais para maior abrangência;
