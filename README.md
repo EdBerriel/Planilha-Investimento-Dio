@@ -77,4 +77,4 @@ Agradecimento ao Sérgio Sousa que disponibilizou no fórum seu link anexo no gi
 https://github.com/SergioDevSousa/planilha-analise-exel/blob/main/README.md?plain=1
 
 ## 🗂️ — 7. Anexo do Arquivo
-[Clique aqui para baixar](PK)
+[Clique aqui para baixar](https://github.com/EdBerriel/Planilha-Investimento-Dio/blob/main/Investimento%20DIO.xlsx)
