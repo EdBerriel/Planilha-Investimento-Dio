@@ -1,4 +1,4 @@
-# Desafio Excel - Planilha de Investimento Dio
+# Desafio Excel - Planilha de Investimento DIO
 
 ## ⚙️ BASE ESTRUTURAL
 
@@ -10,13 +10,13 @@ Este projeto foi desenvolvido como parte de um desafio voltado para a aplicaçã
 
 A planilha apresenta uma tabela estruturada com as seguintes informações:
 
-- **Cenários:** Pergunta direcionada sobre o montante esperado após um determinado número de meses — **Através da pergunta:** "Quanto em X meses?", mas com prospecção de cenários anuais com 1, 2, 5, 15 e 20 anos;
+- **Cenários de Projeção:** O usuário pode obter uma estimativa do montante esperado após um determinado período, formulando a pergunta: "Quanto em X meses?". No entanto, para uma visão mais estratégica e abrangente, são incluídas projeções anuais considerando horizontes temporais de 1, 2, 5, 15 e 20 anos;
 
-- **Patrimônio Acumulado:** Estimativa do valor total ao término do período indicado — **Através do cálculo:** "Valor projetado ao final do período", mas com análise de tempos anuais para maior abrangência;
+- **Patrimônio Acumulado:** Refere-se à estimativa do valor total projetado ao final do período estipulado. Essa análise é realizada por meio do cálculo do "Valor projetado ao término do intervalo determinado", sendo apresentada em escalas anuais para permitir uma melhor compreensão da evolução patrimonial ao longo dos anos;
 
-- **Rendimento:** Soma dos ganhos obtidos ao longo do período avaliado — **Através da análise** "Valor total do rendimento obtido", mas com cálculo fomentado no ano, mostrando os ganhos brutos;
+- **Rendimento Obtido:** Representa a soma dos ganhos acumulados ao longo do período em questão. Esse aspecto é avaliado por meio da análise do "Valor total do rendimento gerado", com foco nos cálculos anuais, proporcionando uma visão clara sobre os retornos brutos adquiridos ao longo do tempo.
 
-### 2.1. Amostra de dados:
+### 2.1. Amostra de dados (Perfil Conservador):
 
 | Cenários           | Patrimônio Acumulado | Rendimento  |
 |--------------------|----------------------|-------------|
@@ -33,13 +33,13 @@ Ambos os perfis refletem de forma interativa na tabela, refletindo os ganhos fin
 
 ---
 
-## 🧠 LÓGICA IMPLEMENTADA
+## 💠 CONTEXTO FOCAL
 
-## 👁️‍🗨️ — 3. Perfis de Investidor (nas células mescladas `D32 & D33`):
+## 👁️‍🗨️ — 3. Perfis de Investidor (nas células mescladas `D32` & `D33`):
 
-- **Conservador** → valores a partir de R$ 1.000,00 até R$ 1.999,99
-- **Moderado** → valores a partir de R$ 2.000,00 até R$ 2.499,99
-- **Agressivo** → valores a partir de R$ 2.500,00
+- **Investidor Conservador** – faixa de valores entre R$ 1.000,00 e R$ 1.999,99, priorizando segurança e estabilidade;
+- **Investidor Moderado** – valores variando de R$ 2.000,00 a R$ 2.499,99, equilibrando risco e retorno de forma estratégica;
+- **Investidor Agressivo** – montantes a partir de R$ 2.500,00, focando em alto potencial de valorização e maior exposição ao risco.
 
 ### 3.1. Construção do Modelo:
 
