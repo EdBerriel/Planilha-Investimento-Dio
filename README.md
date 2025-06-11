@@ -1,8 +1,8 @@
-# Desafio Excel - Planilha de Investimento DIO
+# Desafio Planilha de Investimento DIO
 
 ## ⚙️ BASE ESTRUTURAL
 
-## 📖 — 1. Descrição
+## 📖 — 1. Sobre o Projeto
 
 Este projeto foi desenvolvido como parte de um desafio voltado para a aplicação de fórmulas e formatação condicional no Excel. A ideia central é possibilitar a identificação do perfil de investidor, analisando o tempo de investimento informado dentro de uma tabela de cenários. Com essa abordagem, busca-se estabelecer critérios que permitam categorizar investidores com base no período que pretendem manter seus recursos aplicados, facilitando a tomada de decisão e aprimorando a visualização dos diferentes perfis financeiros.
 
@@ -70,11 +70,6 @@ No mais, o investimento mensal, anteriormente proposto, demonstra as informaçõ
 - Fórmula SE;
 - Fórmula PROCV;
 - Validação de Dados em 2 niveis;
-
-## 🔔 — 6. Agradecimento
-
-Agradecimento ao Sérgio Sousa que disponibilizou no fórum seu link anexo no github, ao qual me inspirou a construir o meu README aqui. Link de Acesso:
-https://github.com/SergioDevSousa/planilha-analise-exel/blob/main/README.md?plain=1
-
-## 🗂️ — 7. Anexo do Arquivo
+  
+## 🗂️ — 6. Anexo do Arquivo
 [Clique aqui para baixar](https://github.com/EdBerriel/Planilha-Investimento-Dio/blob/main/Investimento%20DIO.xlsx)
