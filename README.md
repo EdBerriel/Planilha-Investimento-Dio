@@ -4,7 +4,7 @@
 
 ## 📖 — 1. Sobre o Projeto
 
-Este projeto foi desenvolvido como parte de um desafio voltado para a aplicação de fórmulas e formatação condicional no Excel. A ideia central é possibilitar a identificação do perfil de investidor, analisando o tempo de investimento informado dentro de uma tabela de cenários. Com essa abordagem, busca-se estabelecer critérios que permitam categorizar investidores com base no período que pretendem manter seus recursos aplicados, facilitando a tomada de decisão e aprimorando a visualização dos diferentes perfis financeiros.
+Este projeto foi concebido como parte de um desafio focado na aplicação de fórmulas e no uso estratégico da formatação condicional no Excel. A proposta central consiste em viabilizar a identificação do perfil de investidor, levando em consideração o período de investimento informado dentro de uma tabela de cenários. Dessa forma, busca-se estabelecer parâmetros que permitam classificar os investidores conforme o tempo que pretendem manter seus recursos aplicados, proporcionando maior clareza na tomada de decisão e aprimorando a visualização dos diferentes perfis financeiros.
 
 ## 💹 — 2. Qual a estrutura da planilha?
 
